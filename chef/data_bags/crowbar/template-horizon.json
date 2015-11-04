@@ -6,10 +6,10 @@
       "debug": false,
       "keystone_instance": "none",
       "database_instance": "none",
-      "site_branding": "OpenStack Dashboard",
-      "site_theme": "",
+      "site_branding": "SUSE OpenStack Cloud",
+      "site_theme": "SUSE",
       "site_branding_link": "",
-      "help_url": "http://docs.openstack.org/",
+      "help_url": "/help/",
       "session_timeout": 240,
       "secret_key": "",
       "db": {
